@@ -1,0 +1,13 @@
+title: "Bruno Croci's Photos"
+description: "some of my photography"
+author: "Bruno Croci"
+
+images_max_height: 1024
+images_quality: 65
+thumbs_max_height: 256
+thumbs_quality: 30
+
+pages:
+  - index.md
+  - night/night.md
+  - forest/forest.md
