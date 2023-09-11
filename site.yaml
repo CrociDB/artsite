@@ -5,15 +5,11 @@ author: "Bruno Croci"
 images_max_height: 1024
 images_quality: 65
 thumbs_max_height: 256
-thumbs_quality: 30
+thumbs_quality: 60
 
 images_border: 150
 thumbs_border: 0
 
 pages:
   - index.md
-  - chill/chill.md
-  - city/city.md
-  - flowers/flowers.md
-  - brazil/brazil.md
-  - misc/misc.md
+  - bw/bw.md

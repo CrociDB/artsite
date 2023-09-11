@@ -1,4 +1,5 @@
-title: "Photography"
+title: "Gallery"
+images:
+    - photography/*.jpg
 ---MD---
 
-My own personal gallery.
