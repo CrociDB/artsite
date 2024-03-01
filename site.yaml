@@ -1,6 +1,7 @@
 title: "Bruno Croci's Photos"
 description: "some of my photography"
 author: "Bruno Croci"
+url: "http://alpharaymond.crocidb.com:8080"
 
 images_max_height: 1024
 images_quality: 65
@@ -12,4 +13,4 @@ thumbs_border: 0
 
 pages:
   - index.md
-  - bw/bw.md
+  - bw/index.md
