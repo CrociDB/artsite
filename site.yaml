@@ -11,6 +11,11 @@ thumbs_quality: 60
 images_border: 70
 thumbs_border: 0
 
-pages:
-  - index.md
-  - bw/index.md
+sections:
+  - title: "Main"
+    pages:
+      - "index.md"
+  - title: "Photography"
+    pages:
+      - "bw/index.md"
+
