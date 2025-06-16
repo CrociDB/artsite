@@ -1,7 +1,7 @@
-title: "Bruno Croci's Photos"
-description: "some of my photography"
+title: "Bruno Croci's Art"
+description: "photography, digital art, music and drawings"
 author: "Bruno Croci"
-url: "http://alpharaymond.crocidb.com:8080"
+url: "http://alpharaymond.crocidb.com:8081"
 
 images_max_height: 1024
 images_quality: 65
@@ -12,10 +12,11 @@ images_border: 70
 thumbs_border: 0
 
 sections:
-  - title: "Main"
+  - title: "About"
     pages:
       - "index.md"
   - title: "Photography"
     pages:
+      - "photography/index.md"
       - "bw/index.md"
 
