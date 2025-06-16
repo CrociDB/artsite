@@ -1,7 +1,7 @@
 title: "Bruno Croci's Art"
 description: "photography, digital art, music and drawings"
 author: "Bruno Croci"
-url: "http://alpharaymond.crocidb.com:8081"
+url: "http://localhost:8081"
 
 images_max_height: 1024
 images_quality: 65
@@ -15,8 +15,10 @@ sections:
   - title: "About"
     pages:
       - "index.md"
-  - title: "Photography"
+  - title: "Art Projects"
+    pages:
+      - "xavega/index.md"
+  - title: "Gallery"
     pages:
       - "photography/index.md"
-      - "bw/index.md"
 
